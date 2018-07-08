@@ -54,9 +54,6 @@ blurb:
 intro:
   heading: ''
   text: ''
-products: []
-values:
-  heading: ''
-  text: ''
+
 ---
 
