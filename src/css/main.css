@@ -126,6 +126,7 @@
     transition: all .15s ease;
     font-family: 'UnifrakturMaguntia', cursive;
 }
+.divider-grey a{color:#E0E0D7;}
 h1.bg-primary{
     font-family:foglihtenno04regular;
     background-color:transparent;
@@ -140,3 +141,14 @@ h2{font-size:30px;}
     display: none;
 }
 p{max-width: 100%;}
+.bg-black{
+    background: url(../img/pattern.jpg) !important;
+}
+nav{background-color:#070A08 !important;border-bottom:5px solid #B93F04;}
+a.pa3.db.mr4.h-100.w3.flex-none {
+    background: #fff;
+}
+body{background-color:#E0E0D7;}
+.bg-grey-1 {
+    background-color: #E0E0D7;
+}
