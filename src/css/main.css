@@ -126,7 +126,7 @@
     transition: all .15s ease;
     font-family: 'UnifrakturMaguntia', cursive;
 }
-.divider-grey a{color:#E0E0D7;}
+.divider-grey a{color:#E0E0D7;text-shadow:none;}
 h1.bg-primary{
     font-family:foglihtenno04regular;
     background-color:transparent;
