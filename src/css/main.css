@@ -153,3 +153,16 @@ body{background-color:#E0E0D7;}
 }
 video{width:100%;height:auto;}
 .pv5.pv6-l.ph3.bg-center.cover{display:none;}
+nav {
+    border-bottom: solid 5px #e97f02;
+    
+        border-image-repeat: stretch;
+        border-image-slice: 100%;
+        border-image-source: none;
+        border-image-width: 1;
+    border-width: .25em 0;
+    border-image: linear-gradient(90deg, #f8ca00, #490a3d, #8a9b0f, #bd1550) 100 100;
+    padding: .25em 0 .125em;
+    font-size: 1.5em;
+    color: #e97f02;
+}
