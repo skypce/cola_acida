@@ -151,3 +151,5 @@ body{background-color:#E0E0D7;}
 .bg-grey-1 {
     background-color: #E0E0D7;
 }
+video{width:100%;height:auto;}
+.pv5.pv6-l.ph3.bg-center.cover{display:none;}
