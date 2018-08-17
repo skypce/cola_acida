@@ -1,9 +1,7 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
-<video width="320" height="240" controls>
-    <source src="img/video.mp4" type="video/mp4">    
-  </video> 
+<object data="cola-acida/index.html" type=""></object> 
 
 {{ partial "short-text" .Params.blurb}}
 
