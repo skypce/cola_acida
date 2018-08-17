@@ -166,3 +166,4 @@ nav {
     font-size: 1.5em;
     color: #e97f02;
 }
+object{position:relative;height:20rem;width:100%;z-index:9999;overflow:hidden !important;}
