@@ -183,3 +183,9 @@ object{position:relative;height:20rem;width:100%;z-index:9999;overflow:hidden !i
 	/* padding-bottom: 36px; */
 	padding-bottom: 0rem;
 }
+.divider-grey a {
+	color: #e0e0d7;
+	text-shadow: none;
+	position: relative;
+	z-index: 10;
+}
