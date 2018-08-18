@@ -19,13 +19,13 @@ uniforms.speed = {type: 'v2', value: {x: 0.7, y: 0.4}};
 var shaderCode = document.getElementById( 'fragShader' ).innerHTML
 var smokeShader = new PIXI.AbstractFilter('',shaderCode, uniforms);
 
-var bg = PIXI.Sprite.fromImage("https://cola-acida.netlify.com/img/logo.jpg");
+var bg = PIXI.Sprite.fromImage("");
 bg.width = width;
 bg.height = height;
 bg.filters = [smokeShader]
 stage.addChild(bg);
 
-var logo = PIXI.Sprite.fromImage("https://cola-acida.netlify.com/img/logo.jpg");
+var logo = PIXI.Sprite.fromImage("");
 logo.x = width / 2;
 logo.y = height / 2;
 logo.anchor.set(0.5);
