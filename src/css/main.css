@@ -167,3 +167,19 @@ nav {
     color: #e97f02;
 }
 object{position:relative;height:20rem;width:100%;z-index:9999;overflow:hidden !important;}
+
+.bg-off-white {
+	background-color: transparent;
+}
+.ph3.mw7.center {
+	position: relative;
+	z-index: 6;
+	background: rgba(255,255,255,0.5);
+	margin: 1rem auto 0 auto;
+}
+.pv4 {
+	/* padding-top: 36px; */
+	padding-top: 2rem;
+	/* padding-bottom: 36px; */
+	padding-bottom: 0rem;
+}
